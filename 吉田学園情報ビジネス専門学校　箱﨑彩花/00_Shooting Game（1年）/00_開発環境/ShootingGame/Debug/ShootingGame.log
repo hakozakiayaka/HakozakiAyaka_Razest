@@ -1,0 +1,28 @@
+﻿  tutorial.cpp
+  title.cpp
+  time.cpp
+  sound.cpp
+  score.cpp
+  retry.cpp
+  result.cpp
+  ranking.cpp
+  quit.cpp
+  player.cpp
+  pausemenu.cpp
+  pause.cpp
+  main.cpp
+  life.cpp
+  input.cpp
+  game.cpp
+  fade.cpp
+  explosion.cpp
+  enemy.cpp
+  effect.cpp
+  コードを生成中...
+  コンパイル中...
+  continu.cpp
+  bullet.cpp
+  bg.cpp
+  コードを生成中...
+  ShootingGame.vcxproj -> C:\Users\game128\Desktop\吉田学園情報ビジネス専門学校　箱﨑彩花\00_2Dシューティングゲーム（1年）\00_開発環境\ShootingGame\\ShootingGame.exe
+  ShootingGame.vcxproj -> C:\Users\game128\Desktop\吉田学園情報ビジネス専門学校　箱﨑彩花\00_2Dシューティングゲーム（1年）\00_開発環境\ShootingGame\\ShootingGame.pdb (Full PDB)
